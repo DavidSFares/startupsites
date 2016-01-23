@@ -106,6 +106,10 @@ body {
   border-bottom-color: #fff;
 }
 
+
+.row{padding-top: 40px;}
+
+
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
