@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #fff;
   
 
 }
@@ -107,9 +107,9 @@ body {
 }
 
 
-.row{padding-top: 40px;}
-
-
+.row {padding-top: 60px;}
+.row featurette { padding: 100px;}
+.container marketing {background-color:#333; }
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
