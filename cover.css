@@ -28,12 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background-image: url("https://static.pexels.com/photos/479/landscape-nature-sunset-trees-medium.jpg");
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  
 
 }
 body {
@@ -120,6 +115,12 @@ body {
 
 .cover {
   padding: 0 20px;
+  background-image: url("https://static.pexels.com/photos/479/landscape-nature-sunset-trees-medium.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .cover .btn-lg {
   padding: 10px 20px;
