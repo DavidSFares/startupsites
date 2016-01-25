@@ -108,7 +108,7 @@ body {
 
 
 .row {padding-top: 60px;}
-.featureRows {background-color: #fff;}
+.featurette {background-color: #fff;}
 
 @media (min-width: 768px) {
   .masthead-brand {
