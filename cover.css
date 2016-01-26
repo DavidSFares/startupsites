@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-color: #fff;
   
 
 }
@@ -133,6 +133,11 @@ body {
   font-weight: bold;
 }
 
+
+
+.container-marketing {
+  background-color: #fff;
+}
 
 /*
  * Footer
