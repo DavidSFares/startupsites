@@ -107,7 +107,8 @@ body {
 }
 
 
-.row {padding-top: 60px;}
+.row {padding: 60px;
+background-color: green;}
 .featurette {background-color: #fff;}
 
 @media (min-width: 768px) {
