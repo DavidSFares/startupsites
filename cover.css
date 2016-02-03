@@ -187,3 +187,5 @@ background-color: #FFF;}
 .img-package {width:100%;}
 .packages-container.col-lg-4 {border: 1px solid #000;}
 .packageIntro {background-color: #f4f4f4;}
+.packages-container {background-image: url(https://static.pexels.com/photos/1984/black-and-white-city-man-people.jpg);
+background-repeat: no-repeat;}
